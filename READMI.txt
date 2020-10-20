@@ -1,0 +1,10 @@
+yolov3.weight（放到项目目录下）
+链接：https://pan.baidu.com/s/15pfraJX_oLApE0hov-HRjw 
+提取码：2jos 
+
+
+项目环境：
+python3.6+
+opencv-python3.4+
+pytorch最新即可
+如果有显卡，安装pytorch和python时注意选择cuda版本
